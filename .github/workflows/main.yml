@@ -2,6 +2,7 @@ name: '微信定时推送任务'
 on:
   schedule:
     - cron: '0 7 * * *'
+  workflow_dispatch:
 permissions:
   contents: read
 jobs:
@@ -20,4 +21,4 @@ jobs:
         pip install -r requirements.txt
     - name: '发送消息'
       run: |
-        python ./weixin.exe
+        ./weixin.exe
