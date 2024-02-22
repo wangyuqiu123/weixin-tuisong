@@ -1,0 +1,11 @@
+有些系统不兼容，建议win10系统
+1.浏览器搜索微信公众平台接口测试账号申请
+2.百度网盘下载：
+链接：https://pan.baidu.com/s/1PQ-vOOXU9Vlrd0YXMWo3rg 
+提取码：ylxq
+3.复制模板，粘贴到网站新增模板里
+4.填写config.txt配置文件，用记事本打开就可以
+5.运行weixin.exe程序
+
+简单版操作流程：
+https://blog.csdn.net/A_Xunla/article/details/126521400
